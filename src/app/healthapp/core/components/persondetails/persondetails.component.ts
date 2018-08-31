@@ -15,7 +15,7 @@ export class PersondetailsComponent implements OnInit
 {
 	
 	persondetails: Persondetails;
-	
+	let pulltest:any;
 	radiogroupData:any;
 	
 	constructor( private router: Router)
